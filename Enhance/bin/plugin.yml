@@ -1,0 +1,14 @@
+name: Enhance
+main: com.fg.enhance.main.Enhance
+authors: [botifier]
+version: 2.4.1
+permissions:
+  enhance.admin:
+    default: op
+commands:
+  kit:
+    description: Kit command for Enhance.
+    aliases: k
+  clan:
+    description: Clan command for Enhance.
+    aliases: c
